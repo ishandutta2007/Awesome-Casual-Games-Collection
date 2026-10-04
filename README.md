@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Casual-Games-Collection/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Casual-Games-Collection?style=flat-square" alt="GitHub stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Casual-Games-Collection/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Casual-Games-Collection?style=flat-square" alt="GitHub forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Casual-Games-Collection/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Casual-Games-Collection?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a> <a href="https://github.com/ishandutta2007/Awesome-Casual-Games-Collection/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Casual-Games-Collection?style=flat-square" alt="GitHub_Stars"/></a> <a href="https://github.com/ishandutta2007/Awesome-Casual-Games-Collection/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Casual-Games-Collection?style=flat-square" alt="GitHub forks"/></a> <a href="https://github.com/ishandutta2007/Awesome-Casual-Games-Collection/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Casual-Games-Collection?style=flat-square" alt="License"/></a> <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 ---
@@ -56,9 +56,9 @@ The open-source casual games ecosystem is **diverse, privacy-respecting, and pro
 
 ### ⚡ Top Open-Source Repositories (Ranked by Stars)
 
-All open-source repositories below are sorted in descending order by GitHub star count:
+All open-source repositories below are sorted in descending order by GitHub Stars_Count:
 
-| Repository & Link | Stars Badge | Key Description & Features | Platform / Tech Stack | License |
+| Repository & Link | Stars_Badge | Key Description & Features | Platform / Tech Stack | License |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Ren'Py Visual Novel Engine](https://github.com/renpy/renpy)** 📚 | [![Ren'Py Stars](https://img.shields.io/github/stars/renpy/renpy?style=social&color=white)](https://github.com/renpy/renpy/stargazers) | Open-source engine for visual novels and story-driven casual games. Powers 8,000+ published titles worldwide. | Python / Cython | MIT |
 | **[PvZ-Portable](https://github.com/wszqkzqk/PvZ-Portable)** 🧟 | [![PvZ-Portable Stars](https://img.shields.io/github/stars/wszqkzqk/PvZ-Portable?style=social&color=white)](https://github.com/wszqkzqk/PvZ-Portable/stargazers) | Cross-platform reimplementation of Plants vs. Zombies (GOTY edition) with portable `.v4` binary saves across x86_64, ARM, RISC-V, and LoongArch. | C++ / CMake | GPL-3.0 |
